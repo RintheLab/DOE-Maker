@@ -15,6 +15,8 @@ and then:
 
 `DOEMaker()`
 
+To do the above, you can also run the file app.R in DOEMaker main directory.
+
 #### 2
 
 Install the app as a package with the next code:
@@ -27,7 +29,7 @@ then:
 
 and finally:
 
-`heatMapApp()`
+`DOEMaker()`
 
 #### 3
 

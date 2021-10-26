@@ -1,0 +1,21 @@
+Package: DOEMaker
+Title: A basic Shin App to design experiments
+Version: 1.0
+Authors@R: 
+    person(given = "Juan Pablo",
+           family = "Carreón-Hidalgo",
+           role = c("aut", "cre"),
+           email = "jpch_26@outlook.com")
+Description: A basic Shiny App to design factorial, fractional and response surface experiments.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    devtools,
+    DoE.base,
+    dplyr,
+    FrF2,
+    rsm,
+    shiny

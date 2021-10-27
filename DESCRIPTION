@@ -17,5 +17,6 @@ Imports:
     DoE.base,
     dplyr,
     FrF2,
+    readr,
     rsm,
     shiny

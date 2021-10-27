@@ -43,7 +43,7 @@ The third will not be a long term option to use the app because shinyapp.io just
 
 You can check out a brief tutorial by clicking on:  
 
-(WORK IN PROGRESS)
+[DOE Maker Shiny App](https://r-inthelab.net/2021/10/26/doe-maker-shiny-app/)
 
 Thank you so much for your time.  
 
